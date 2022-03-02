@@ -1,0 +1,13 @@
+openapi: 3.0.0
+servers: ["http://localhost:3000"]
+info:
+  description: 'VeriTran's Code Exercise'
+  version: "1.0.0"
+  title: 'API Veritran'
+  contact:
+    email: ''
+tags:
+  - name: Bank
+    description: Bank veritran..
+paths:
+//ENDPOINTS
